@@ -39,7 +39,7 @@
 
 ## Kursuse formaat
 
-- Ülesannete lahendused tuleb laadida Giti salve
+- Ülesannete lahendused tuleb laadida Giti salve (`iti0214-2019`)
 - Ülesannete testimine UVa Online Judge lehel
 - Kõik lahendused tuleb kaitsta õppejõule
  - läbikukkunud kaitsmine tagab lisaülesande - lahendage ise
