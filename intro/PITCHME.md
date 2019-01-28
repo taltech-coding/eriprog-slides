@@ -88,6 +88,7 @@ Keerulisemad algoritmidel põhinevad ülesanded:
 
 ## Keeled
 
+@ul[many-items]
 - C
  - Lihtne, konkreetne, minimalistlik
  - andmestruktuurid tuleb ise teha
@@ -101,9 +102,14 @@ Keerulisemad algoritmidel põhinevad ülesanded:
  - C plussid
  - andmestruktuurid olemas
  - peab teadma, kas, mida ja kuidas kasutada, et lahendada kiirelt ja efektiivselt
+
+@ulend
+
 ---
 
 ## Keeled
+
+@ul[many-items]
 
 - Python
  - lihtne
@@ -113,9 +119,13 @@ Keerulisemad algoritmidel põhinevad ülesanded:
  - siseni lugemine osade ülesannete puhul keeruline
  - kõiki ülesanded ei anna lahendada
  
+@ulend
+ 
 ---
 
 ## Keda ootame
+
+@ul[many-items]
 
 - On läbinud Programmeerimise algkursuse (ITI0102) eelistatult hindele "5"
 - Tunneb või tahab osata eelnimetatud keelt või keeli
@@ -124,6 +134,8 @@ Keerulisemad algoritmidel põhinevad ülesanded:
  - sortimine, otsimine, rekursioon
 - Oskab ja tahab mõelda
 - Ülesannete lahendamine pakub pinget
+
+@ulend
 
 ---
 
