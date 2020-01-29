@@ -62,7 +62,7 @@
 ## Ülesannete lahendamine
 
 - Tunnis 2(3)-liikmeliste rühmade kaupa - tiimitöö
- - kui üks tiimiliige lahendab, siis punktid lähevad kõigile tiimiliikmetele
+ - kui üks tiimiliige lahendab ära, siis punktid lähevad kõigile tiimiliikmetele
  - kaitsmine toimud individuaalselt
 - Tuleb teha käsurea programm, mis loeb standardsisendist ja kirjutab standardväljundisse vastavalt etteantud eeskirjadele
 
@@ -128,9 +128,8 @@
 
 ## Osalemise eeldus
 
-- Registreeruda ülesannete veebilehel
 - Registreeri ained.ttu.ee lehel
-- Enne deklareerimist lahenda ära vähemalt 2 ülesannet:
+- Enne deklareerimist lahenda ära vähemalt 1 ülesanne:
  - 10528 Major Scales
  - 11736 Debugging RAM
  - 11683 Laser Sculpture
