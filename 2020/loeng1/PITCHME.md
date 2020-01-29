@@ -77,9 +77,9 @@
 
 ## Ülesanded
 
-- iga tund lahendada vähemalt ühte ülesannet valikust
+- iga tund lahendada vähemalt 1 ülesanne valikust
  - kokku 15 tunniülesannet (1. - 15. nädal)
-- üle nädala kodutöö (lahendada vähemalt ühte ülesannet valikust)
+- üle nädala kodutöö (lahendada vähemalt 1 ülesanne valikust)
  - kokku 7 koduülesannet (3., 5., 7., 9., 11., 13., 15. nädal)
 - kokku 22 ülesannet
 - 16 nädal - võistlus
@@ -93,6 +93,11 @@
 - Hiljem 1p
 - Igast valikust lahendada vähemalt 1 ülesanne
 - Kokku 22 valikut (tunnid + kodused)
+
+---
+
+## Hindamine
+
 - "5" - `21` valikut + `70p`
 - "4" - `19` valikut + `60p`
 - "3" - `17` valikut + `50p`
