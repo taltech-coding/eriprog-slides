@@ -1,6 +1,6 @@
-# Programmeerimise erikursus
+## Programmeerimise erikursus
 
-## Bahdan Yanovich
+# Bahdan Yanovich
 
 ---
 
@@ -26,13 +26,6 @@
 
 ---
 
-## Mida teeme
-
-lahendame _competitive programming_ ülesandeid 
-
-
----
-
 ## Teemad
 
 - Andmestruktuurid (stack, queue, map)
@@ -50,10 +43,15 @@ lahendame _competitive programming_ ülesandeid
 
 - 2 praktikumi nädalas (2 x 1.5h)
  - algoritmide ja andmestruktuuride tutvustus
- - ülesannete lahendamine tunnis
+ - _competitive programming_ ülesannete lahendamine tunnis
  - vajadusel koduste ülesannete arutamine
  - ülesannete lahendused tuleb laadida Giti reposse (`iti0214-2020`)
  - ülesannete testimine UVa Online Judge lehel
+ 
+---
+
+## Kursuse formaat
+
  - Kõik lahendused tuleb kaitsta õppejõule
   - läbikukkunud kaitsmine tagab lisaülesande - lahendage ise
   - kaitsta saab kuni mai lõpuni
