@@ -1,6 +1,6 @@
 ## Programmeerimise erikursus
 
-# Bahdan Yanovich
+### Bahdan Yanovich
 
 ---
 
@@ -65,6 +65,11 @@
  - kui üks tiimiliige lahendab, siis punktid lähevad kõigile tiimiliikmetele
  - kaitsmine toimud individuaalselt
 - Tuleb teha käsurea programm, mis loeb standardsisendist ja kirjutab standardväljundisse vastavalt etteantud eeskirjadele
+
+---
+
+## Ülesannete lahendamine
+
 - Testimine hakkab toimuma automaatse testimismootori abil, kuhu saab oma koodi postitada: https://uva.onlinejudge.org/
 - Lahendatuks loetakse ainult need ülesanded, mis mainitud mootor vastu võtab ja mille olete kaitsnud õppejõule
 
